@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hello there! , I'm Juan Antonio :)</h1>
 
+<div id="header" align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-reyes-mendoza/)
+
+</div>
+
 A mechanical engineer specialized in **Data Science** with experience in **data analysis** from manufacturing areas. account
 with ease in working as a team, results-oriented and with analytical skills.
 
@@ -35,9 +41,6 @@ with ease in working as a team, results-oriented and with analytical skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAntonioRe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-reyes-mendoza/)
 
 <p align="center"> 
   </br>

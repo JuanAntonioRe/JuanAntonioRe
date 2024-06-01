@@ -1,4 +1,4 @@
-# Hi there, I'm  [Juan Antonio](https://github.com/JuanAntonioRe) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">👋 Hello there! , I'm Juan Antonio :)</h1>
 
 A mechanical engineer specialized in **Data Science** with experience in **data analysis** from manufacturing areas. account
 with ease in working as a team, results-oriented and with analytical skills.
@@ -6,8 +6,8 @@ with ease in working as a team, results-oriented and with analytical skills.
 ### 👨🏻‍💻 About Me
 
 - 📈 I'm a Data Scientist who is really passionate about the field of Artificial Intelligence and solving real-world problems using Machine Learning techniques.
-- 💻 I'm about to finish the best Data Science bootcamp at [TripleTen](https://tripleten.com).
-- 🔭 I've worked as Data Analytics Engineer
+- 💻 I'm about to finish the best Data Science bootcamp at [TripleTen](https://tripleten.com) and I can't wait to put in practice my new skills as data scientist.
+- 🔭 I've worked as Data Analytics Engineer.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
 ## 🛠 Languages and Tools
@@ -28,6 +28,10 @@ with ease in working as a team, results-oriented and with analytical skills.
 [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;][java]
 
 ---
+
+## :fire: My stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FJuanAntonioRe&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ## Contact me
 

@@ -31,7 +31,9 @@ with ease in working as a team, results-oriented and with analytical skills.
 
 ## :fire: My stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FJuanAntonioRe&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanAntonioRe&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAntonioRe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
 

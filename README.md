@@ -12,7 +12,7 @@ with ease in working as a team, results-oriented and with analytical skills.
 ### 👨🏻‍💻 About Me
 
 - 📈 I'm a Data Scientist who is really passionate about the field of Artificial Intelligence and solving real-world problems using Machine Learning techniques.
-- 💻 I'm about to finish the best Data Science bootcamp at [TripleTen](https://tripleten.com) and I can't wait to put in practice my new skills as data scientist.
+- 💻 I've finished the best Data Science bootcamp at [TripleTen](https://tripleten.com) and I can't wait to put in practice my new skills as data scientist.
 - 🔭 I've worked as Data Analytics Engineer.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
